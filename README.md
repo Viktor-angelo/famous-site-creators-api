@@ -1,8 +1,8 @@
-# 🌐 Famous Site Creators API
+#  Famous Site Creators API
 
 This is a simple RESTful API built with Flask that provides information about the creators of some of the most famous websites in the world. You can retrieve, add, update, and delete data using standard HTTP methods (GET, POST, PUT, DELETE).
 
-## 📌 Features
+##  Features
 
 - Get the list of all websites and their creators
 - Get information about a website by ID
@@ -10,12 +10,12 @@ This is a simple RESTful API built with Flask that provides information about th
 - Update an existing website by ID
 - Delete a website by ID
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Flask
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository:
 
